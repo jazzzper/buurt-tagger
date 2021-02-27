@@ -1,26 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+import Layout from "./components/Layout";
+import { BuurtenProvider } from "./contexts/BuurtenContext";
+import BuurtDetails from "./pages/BuurtDetails";
+import BuurtenOverzicht from "./pages/BuurtenOverzicht";
+
+const App: React.FC = () => (
+  <BuurtenProvider>
+    <Layout>
+      <header>
+        <h1>Buurt Tagger</h1>
       </header>
-    </div>
-  );
-}
+      <main>
+        <Router basename="/buurt-tagger">
+          <Switch>
+            <Route path="/:buurtName">
+              <BuurtDetails />
+            </Route>
+            <Route exact path="/">
+              <BuurtenOverzicht />
+            </Route>
+          </Switch>
+        </Router>
+      </main>
+    </Layout>
+  </BuurtenProvider>
+);
 
 export default App;
