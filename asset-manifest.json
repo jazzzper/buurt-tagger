@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/jazzzper/buurt-tagger/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/jazzzper/buurt-tagger/static/js/main.c7c31978.chunk.js",
-    "main.js.map": "/jazzzper/buurt-tagger/static/js/main.c7c31978.chunk.js.map",
-    "runtime-main.js": "/jazzzper/buurt-tagger/static/js/runtime-main.23e7a2e4.js",
-    "runtime-main.js.map": "/jazzzper/buurt-tagger/static/js/runtime-main.23e7a2e4.js.map",
-    "static/js/2.92fb910b.chunk.js": "/jazzzper/buurt-tagger/static/js/2.92fb910b.chunk.js",
-    "static/js/2.92fb910b.chunk.js.map": "/jazzzper/buurt-tagger/static/js/2.92fb910b.chunk.js.map",
-    "static/js/3.7bc96d37.chunk.js": "/jazzzper/buurt-tagger/static/js/3.7bc96d37.chunk.js",
-    "static/js/3.7bc96d37.chunk.js.map": "/jazzzper/buurt-tagger/static/js/3.7bc96d37.chunk.js.map",
-    "index.html": "/jazzzper/buurt-tagger/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/jazzzper/buurt-tagger/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.92fb910b.chunk.js.LICENSE.txt": "/jazzzper/buurt-tagger/static/js/2.92fb910b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/jazzzper/buurt-tagger/static/media/logo.6ce24c58.svg"
+    "main.css": "/buurt-tagger/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/buurt-tagger/static/js/main.c7c31978.chunk.js",
+    "main.js.map": "/buurt-tagger/static/js/main.c7c31978.chunk.js.map",
+    "runtime-main.js": "/buurt-tagger/static/js/runtime-main.761ae552.js",
+    "runtime-main.js.map": "/buurt-tagger/static/js/runtime-main.761ae552.js.map",
+    "static/js/2.92fb910b.chunk.js": "/buurt-tagger/static/js/2.92fb910b.chunk.js",
+    "static/js/2.92fb910b.chunk.js.map": "/buurt-tagger/static/js/2.92fb910b.chunk.js.map",
+    "static/js/3.7bc96d37.chunk.js": "/buurt-tagger/static/js/3.7bc96d37.chunk.js",
+    "static/js/3.7bc96d37.chunk.js.map": "/buurt-tagger/static/js/3.7bc96d37.chunk.js.map",
+    "index.html": "/buurt-tagger/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/buurt-tagger/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.92fb910b.chunk.js.LICENSE.txt": "/buurt-tagger/static/js/2.92fb910b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/buurt-tagger/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.23e7a2e4.js",
+    "static/js/runtime-main.761ae552.js",
     "static/js/2.92fb910b.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.c7c31978.chunk.js"
