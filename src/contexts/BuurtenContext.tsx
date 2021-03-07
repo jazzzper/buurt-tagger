@@ -1,9 +1,16 @@
 import React from "react";
 
 const BUURTEN: Buurt[] = [
-  { name: "Staatsliedenbuurt", tags: ["Hier woon ik", "Vlak bij Westerpark"] },
-  { name: "Rivierenbuurt", tags: ["Berlage"] },
+  {
+    name: "Staatsliedenbuurt",
+    tags: ["Naast Westerpark", "GWL terrein", "Hier woont Jasper", "West"],
+  },
+  { name: "Rivierenbuurt", tags: ["Berlage", "Amsterdamse School", "Zuid"] },
   { name: "Indische Buurt", tags: [] },
+  {
+    name: "Bijlmermeer",
+    tags: ["Modernisme", "Honingraatflats", "Vliegramp", "Zuid-Oost"],
+  },
 ];
 
 interface Buurt {
