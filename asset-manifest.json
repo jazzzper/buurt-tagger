@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/buurt-tagger/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/buurt-tagger/static/js/main.3642714c.chunk.js",
-    "main.js.map": "/buurt-tagger/static/js/main.3642714c.chunk.js.map",
-    "runtime-main.js": "/buurt-tagger/static/js/runtime-main.e28a70f9.js",
-    "runtime-main.js.map": "/buurt-tagger/static/js/runtime-main.e28a70f9.js.map",
-    "static/js/2.ade369a5.chunk.js": "/buurt-tagger/static/js/2.ade369a5.chunk.js",
-    "static/js/2.ade369a5.chunk.js.map": "/buurt-tagger/static/js/2.ade369a5.chunk.js.map",
-    "index.html": "/buurt-tagger/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/buurt-tagger/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.ade369a5.chunk.js.LICENSE.txt": "/buurt-tagger/static/js/2.ade369a5.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.3642714c.chunk.js",
+    "main.js.map": "/static/js/main.3642714c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c0329527.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c0329527.js.map",
+    "static/js/2.c7dec73a.chunk.js": "/static/js/2.c7dec73a.chunk.js",
+    "static/js/2.c7dec73a.chunk.js.map": "/static/js/2.c7dec73a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c7dec73a.chunk.js.LICENSE.txt": "/static/js/2.c7dec73a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e28a70f9.js",
-    "static/js/2.ade369a5.chunk.js",
+    "static/js/runtime-main.c0329527.js",
+    "static/js/2.c7dec73a.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.3642714c.chunk.js"
   ]
