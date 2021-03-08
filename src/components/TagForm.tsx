@@ -29,6 +29,7 @@ const TagForm: React.FC<TagFormProps> = ({ buurt, onSubmit }) => {
   });
   const [inputTagState, setInputTagState] = React.useState<string>("");
 
+  // TODO: refactor stateType to something like [typeof keyof ErrorMessages]
   const [tagFieldError, setTagFieldError] = React.useState<
     undefined | "required" | "maxLength"
   >(undefined);
@@ -112,12 +113,13 @@ const TagForm: React.FC<TagFormProps> = ({ buurt, onSubmit }) => {
 
       <form onSubmit={handleSubmit}>
         <FormField
-          name="input-tag"
+          name="formfield-tags"
           label="Voer hier je tag in"
           errorMessage={tagFieldError && ErrorMessage[tagFieldError]}
           input={
             <Row crossAxisAlignment={CrossAxisAlignment.center}>
               <InputText
+                name="formfield-tags"
                 value={inputTagState}
                 onChange={(event) => setInputTagState(event.target.value)}
               />

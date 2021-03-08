@@ -7,8 +7,6 @@ import Color from "../tokens/Colors";
 import { Orientation } from "../tokens/Orientation";
 import Spacer from "./Spacer";
 
-// TODO: backgroundColor op een betere manier oplossen
-
 interface TextButtonProps extends React.HTMLAttributes<HTMLButtonElement> {
   iconLeft?: IconProp;
   iconRight?: IconProp;
@@ -41,6 +39,7 @@ const Button = styled.button`
   cursor: pointer;
   height: auto;
   border: none;
+  // TODO: Remove default styling from useragent and set background - color to none
   background-color: ${Color.primaryWhite};
   padding: 0;
   align-self: baseline;

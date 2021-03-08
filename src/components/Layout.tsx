@@ -5,8 +5,8 @@ import { CrossAxisAlignment } from "../tokens/Alignment";
 import Color from "../tokens/Colors";
 import Column from "./Column";
 
-const Layout: React.FC = ({ children }) => (
-  <StyledColumn crossAxisAlignment={CrossAxisAlignment.center}>
+const Layout: React.FC = ({ children, ...restProps }) => (
+  <StyledColumn {...restProps} crossAxisAlignment={CrossAxisAlignment.center}>
     <Container>{children}</Container>
   </StyledColumn>
 );
