@@ -1,3 +1,11 @@
+# Buurt-tagger [NL]
+
+Demo: https://jazzzper.github.io/buurt-tagger/
+
+Het idee achter het project is dat je 'tags' aan buurten kan toevoegen. Op dit moment zitten er vier buurten in de applicatie en deze hebben al een aantal tags. Als gebruiker kan je deze toevoegen en verwijderen. 
+Qua design heb ik zoveel mogelijk de styleguide aangehouden: https://designsystem.amsterdam.nl/ 
+Verder is de code op bepaalde plekken bewust over-engineered, om te laten zien hoe ik in een groot project zou werken. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
