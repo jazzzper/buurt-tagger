@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/buurt-tagger/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/buurt-tagger/static/js/main.dbeec89d.chunk.js",
-    "main.js.map": "/buurt-tagger/static/js/main.dbeec89d.chunk.js.map",
+    "main.js": "/buurt-tagger/static/js/main.6fa0907c.chunk.js",
+    "main.js.map": "/buurt-tagger/static/js/main.6fa0907c.chunk.js.map",
     "runtime-main.js": "/buurt-tagger/static/js/runtime-main.f5521e93.js",
     "runtime-main.js.map": "/buurt-tagger/static/js/runtime-main.f5521e93.js.map",
-    "static/js/2.ae79a0a8.chunk.js": "/buurt-tagger/static/js/2.ae79a0a8.chunk.js",
-    "static/js/2.ae79a0a8.chunk.js.map": "/buurt-tagger/static/js/2.ae79a0a8.chunk.js.map",
+    "static/js/2.f41e2a39.chunk.js": "/buurt-tagger/static/js/2.f41e2a39.chunk.js",
+    "static/js/2.f41e2a39.chunk.js.map": "/buurt-tagger/static/js/2.f41e2a39.chunk.js.map",
     "index.html": "/buurt-tagger/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/buurt-tagger/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.ae79a0a8.chunk.js.LICENSE.txt": "/buurt-tagger/static/js/2.ae79a0a8.chunk.js.LICENSE.txt"
+    "static/js/2.f41e2a39.chunk.js.LICENSE.txt": "/buurt-tagger/static/js/2.f41e2a39.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f5521e93.js",
-    "static/js/2.ae79a0a8.chunk.js",
+    "static/js/2.f41e2a39.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.dbeec89d.chunk.js"
+    "static/js/main.6fa0907c.chunk.js"
   ]
 }
